@@ -11,4 +11,10 @@ Data Manipulation Language
     ｜ delete|   刪除   |
     ＋-------＋--------＋
 
-(to be continued...)
+select == query ， 是使用頻率最高的資料庫操作指令。
+
+取出資料表中所有欄位資料
+
+    Select * From <table_name>
+    
+   
