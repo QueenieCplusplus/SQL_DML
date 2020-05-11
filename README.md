@@ -32,7 +32,7 @@ select == query ， 是使用頻率最高的資料庫操作指令。
 
       main query + From + sub query
       
-# 建立資料表
+# 建立資料表 (從 DML 變成 DDL)
 
    除了 create table 以外，也可用 
    
