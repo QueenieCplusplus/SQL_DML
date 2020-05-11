@@ -28,6 +28,8 @@ select == query ， 是使用頻率最高的資料庫操作指令。
       
 # Subquery 子查詢或稱副查詢
 
+      main query + Where Exists + sub query 
+
 
 
       
