@@ -10,6 +10,9 @@ Data Manipulation Language
     ＋-------＋--------＋
     ｜ delete|   刪除   |
     ＋-------＋--------＋
+    
+# Query 查詢
+    ＋-------＋--------＋
 
 select == query ， 是使用頻率最高的資料庫操作指令。
 
@@ -22,6 +25,11 @@ select == query ， 是使用頻率最高的資料庫操作指令。
 * 取出資料表中資料並進行排序排列
 
       Select * From <table_name> Where <boolean_expression> Group by <expression> Order By <expression>
+      
+# Subquery 子查詢或稱副查詢
+
+
+
       
 
 
