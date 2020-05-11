@@ -44,7 +44,7 @@ select == query ， 是使用頻率最高的資料庫操作指令。
 
 * Union 集合資料做聯集運算
 
-* Replace 同時具備 update 和 insert 功能！
+* Replace 同時具備 update 和 insert 功能，一切觀看檢索資料是否已經存在～
 
 # 常見的其他操作指令
 
