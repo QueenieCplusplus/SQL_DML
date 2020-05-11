@@ -48,11 +48,11 @@ select == query ， 是使用頻率最高的資料庫操作指令。
 
 # 常見的其他操作指令
 
-* Insert
+* Insert 新增
 
-* Update
+* Update 更新
 
-* Delete
+* Delete 刪除
 
       
 
