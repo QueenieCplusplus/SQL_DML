@@ -30,11 +30,11 @@ select == query ， 是使用頻率最高的資料庫操作指令。
 
       main query + Where Exists + sub query 
 
+      main query + From + sub query
 
 
       
 
 
  
-    
-   
+  
