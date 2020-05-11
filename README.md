@@ -13,8 +13,8 @@ Data Manipulation Language
 
 select == query ， 是使用頻率最高的資料庫操作指令。
 
-取出資料表中所有欄位資料
+* 取出資料表中所有欄位資料
 
-    Select * From <table_name>
+      Select * From <table_name>
     
    
