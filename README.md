@@ -31,7 +31,20 @@ select == query ， 是使用頻率最高的資料庫操作指令。
       main query + Where Exists + sub query 
 
       main query + From + sub query
+      
+# 建立資料表
 
+   除了 create table 以外，也可用 
+   
+      Select * Into <new_table_name> From <table_name> 
+
+# So On... 其他操作指令
+
+* Limit 限制查詢結果
+
+* Union 集合資料做聯集運算
+
+*
 
       
 
